@@ -1,3 +1,8 @@
+/*
+ * 本代码采用的MongoDB数据库，需要事先安装配置好
+ * 连接数据库采用的是mongoose模块
+ * npm install mongoose --save
+ * */
 // 引入网络模块
 var net = require('net');
 //报文对象构造函数
